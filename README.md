@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello, I'm Mantas
 
-<!--
-**MantasTech/MantasTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data enthusiast with expertise in data analysis, reporting, data modeling, and data mining.
 
-Here are some ideas to get you started:
+- Querying data using SQL.
+- Developing dashboards on Tableau and Looker Studio.
+- Data analysis and reporting using Google Sheets, Excel and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Projects
+
+Welcome to my portfolio, where I showcase my [projects](https://github.com/MantasTech/Projects)
+
+## 🛠️ Tools
+
+- **Language**: SQL, Python
+- **Database**: Google BigQuery, MySQL
+- **Visualization**: Tableau, Looker Studio
+
+## 👋🏻 Connect with me
+
+- [LinkedIn](www.linkedin.com/in/mantastech)
