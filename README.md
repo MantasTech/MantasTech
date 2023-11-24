@@ -19,9 +19,10 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Manta
 ## 🌄 While I am not doing Data Science
 
 -  I love to exercise martial arts
+-  Read philosophy 
 -  Develop virtual reality applications
 -  Participate in Web3
--  Read philosophy 
+
 
 ## 👋🏻 Connect with me
 
