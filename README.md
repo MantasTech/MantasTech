@@ -16,7 +16,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Manta
 - **Database**: Google BigQuery, MySQL
 - **Visualization**: Tableau, Looker Studio
 
-## 🌄 While I am not doing Data Science
+## 🌄 Beyond Data Science
 
 -  I love to exercise martial arts
 -  Read philosophy 
@@ -24,6 +24,6 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Manta
 -  Participate in Web3
 
 
-## 👋🏻 Connect with me
+## ✨ How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/mantastech)
