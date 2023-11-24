@@ -12,7 +12,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Manta
 
 ## 🛠️ Tools
 
-- **Language**: SQL, Python
+- **Language**: SQL, Python, C#
 - **Database**: Google BigQuery, MySQL
 - **Visualization**: Tableau, Looker Studio
 
