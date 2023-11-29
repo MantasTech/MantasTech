@@ -14,15 +14,13 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Manta
 
 - **Language**: SQL, Python, C#
 - **Database**: Google BigQuery, MySQL
-- **Visualization**: Tableau, Looker Studio
+- **Visualization**: Tableau, Looker
 
 ## 🌄 Beyond Data Science
 
 -  I love to exercise martial arts
 -  Read philosophy 
 -  Develop virtual reality applications
--  Participate in Web3
-
 
 ## ✨ How to reach me
 
