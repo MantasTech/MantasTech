@@ -22,6 +22,6 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Manta
 -  Read philosophy 
 -  Develop virtual reality applications
 
-## ✨ How to reach me
+## 🛰️ How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/mantastech)
