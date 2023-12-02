@@ -1,3 +1,6 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
+<br><br>
+
 # Hello, I'm Mantas
 
 Data enthusiast with expertise in data analysis, reporting and data modeling.
@@ -10,7 +13,7 @@ Data enthusiast with expertise in data analysis, reporting and data modeling.
 
 Welcome to my portfolio, where I showcase my [projects](https://github.com/MantasTech/Data-Portfolio)
 
-## 🛠️ Tools
+## 💻 Tools
 
 - **Language**: SQL, Python, C#
 - **Database**: Google BigQuery, MySQL
