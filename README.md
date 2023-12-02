@@ -24,4 +24,4 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Manta
 
 ## 🛰️ How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/mantastech)
+- [LinkedIn](https://www.linkedin.com/in/mantastech) &nbsp;&nbsp;&nbsp; [Discord](discordapp.com/users/417571381601894400)
