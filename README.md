@@ -27,7 +27,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Manta
 
 ## 🏴 How to reach me
 
-<a href="https://www.linkedin.com/in/mantastech/"><img align="left" src="https://github.com/MantasTech/MantasTech/blob/main/images/linkedin.png" alt="icon | LinkedIn" width="23px"/></a>
-<a href="https://discordapp.com/users/417571381601894400"><img align="left" src="https://github.com/MantasTech/MantasTech/blob/main/images/discord.png" alt="icon | Discord" width="23px"/></a>
+<a href="https://www.linkedin.com/in/mantastech/"><img align="left" src="https://github.com/MantasTech/MantasTech/blob/main/images/linkedin.png" alt="icon | LinkedIn" width="24px"/></a>
+<a href="https://discordapp.com/users/417571381601894400"><img align="left" src="https://github.com/MantasTech/MantasTech/blob/main/images/discord.png" alt="icon | Discord" width="24px"/></a>
 
 
