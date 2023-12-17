@@ -7,7 +7,7 @@ Data enthusiast with expertise in data analysis, reporting and data modeling.
 
 - Querying data using SQL.
 - Developing dashboards on Tableau and Looker Studio.
-- Data analysis and reporting using Google Sheets, Excel and Python.
+- Data analysis and reporting using Excel and Python.
 
 ## 📚 Projects
 
