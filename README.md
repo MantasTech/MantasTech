@@ -11,7 +11,7 @@ Data enthusiast with expertise in data analysis, reporting and data modeling.
 
 ## 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/MantasTech/Data-Portfolio)
+Welcome to my portfolio, where I showcase my [projects](https://github.com/MantasTech/Data-Portfolio/blob/main/README.md)
 
 ## 💻 Tools
 
