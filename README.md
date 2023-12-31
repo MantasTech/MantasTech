@@ -3,7 +3,7 @@
 
 # Hello, I'm Mantas
 
-Data enthusiast with expertise in data analysis, reporting and data modeling.
+Data enthusiast with expertise in data analysis and reporting.
 
 - Querying data using SQL.
 - Developing dashboards on Tableau and Looker Studio.
