@@ -3,7 +3,7 @@
 
 # Hello, I'm Mantas
 
-Data enthusiast with expertise in data analysis and reporting.
+Data analyst with a strong background in business management. Skilled in translating complex business processes into clear, actionable insights through data analysis and reporting.  
 
 - Querying data using SQL.
 - Developing dashboards on Tableau and Looker Studio.
@@ -11,8 +11,7 @@ Data enthusiast with expertise in data analysis and reporting.
 
 ## 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/MantasTech/Data-Portfolio/blob/main/README.md)
-
+Check out to my [Data Portfolio](https://github.com/MantasTech/Data-Portfolio/blob/main/README.md) to find some of my projects!
 ## 💻 Tools
 
 - **Language**: SQL, Python, C#
