@@ -3,7 +3,7 @@
 
 # Hello, I'm Mantas
 
-Data analyst with a strong background in business management. Skilled in translating complex business processes into clear, actionable insights through data analysis and reporting.  
+Data analyst with a good understanding of business processes, skilled in translating complex business concepts into clear, actionable insights through data analysis and reporting.  
 
 - Querying data using SQL.
 - Developing dashboards on Tableau and Looker Studio.
