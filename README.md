@@ -15,7 +15,7 @@ Check out to my [Data Portfolio](https://github.com/MantasTech/Data-Portfolio/bl
 ## 💻 Tools
 
 - **Language**: SQL, Python, C#
-- **Database**: Google BigQuery, MySQL
+- **Database**: BigQuery, MySQL
 - **Visualization**: Tableau, Looker Studio
 
 ## 🌄 Beyond Data Science
