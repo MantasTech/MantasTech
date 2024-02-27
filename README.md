@@ -3,7 +3,7 @@
 
 # Hello, I'm Mantas
 
-Data analyst with a good understanding of business processes, skilled in translating complex business concepts into clear, actionable insights through data analysis and reporting.  
+Data analyst and Web3 advocate. Skilled in translating complex business concepts into clear, actionable insights through data analysis and reporting.  
 
 - Querying data using SQL.
 - Developing dashboards on Tableau and Looker Studio.
@@ -21,7 +21,8 @@ Check out to my [Data Portfolio](https://github.com/MantasTech/Data-Portfolio/bl
 ## 🌄 Beyond Data Science
 
 -  I love to exercise martial arts
--  Read philosophy 
+-  Participate in Web3 projects
+-  Read philosophy
 -  Develop virtual reality applications
 
 ## 🏴 How to reach me
