@@ -3,7 +3,7 @@
 
 # Hello, I'm Mantas
 
-Data analyst and Web3 advocate. Skilled in translating complex business concepts into clear, actionable insights through data analysis and reporting.  
+Data analyst and researcher. Skilled in translating complex concepts into actionable insights through data analysis and reporting.  
 
 - Querying data using SQL.
 - Developing dashboards on Tableau and Looker Studio.
