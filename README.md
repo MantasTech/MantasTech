@@ -3,11 +3,7 @@
 
 # Hello, I'm Mantas
 
-Data analyst and researcher. Skilled in translating complex concepts into actionable insights through data analysis and reporting.  
-
-- Querying data using SQL.
-- Developing dashboards on Tableau and Looker Studio.
-- Data analysis and reporting using Excel and Python.
+Data analyst and researcher. Skilled in translating complex concepts into actionable insights through data.  
 
 ## 📚 Projects
 
