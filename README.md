@@ -10,7 +10,7 @@ Data analyst and researcher. Skilled in translating complex concepts into action
 Check out to my [Data Portfolio](https://github.com/MantasTech/Data-Portfolio/blob/main/README.md) to find some of my projects!
 ## 💻 Tools
 
-- **Language**: SQL, Python, C#
+- **Language**: SQL, Python, C#, Lua
 - **Database**: BigQuery, MySQL
 - **Visualization**: Tableau, Looker Studio
 
