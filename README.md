@@ -2,8 +2,7 @@
 <br><br>
 
 # Hello, I'm Mantas
-
-Data analyst and researcher. Skilled in translating complex concepts into actionable insights through data.  
+ 
 
 ## 📚 Projects
 
@@ -11,15 +10,15 @@ Check out to my [Data Portfolio](https://github.com/MantasTech/Data-Portfolio/bl
 ## 💻 Tools
 
 - **Language**: SQL, Python, C#, Lua
-- **Database**: BigQuery, MySQL
+- **Database**:  PostgreSQL, MySQL, BigQuery
 - **Visualization**: Tableau, Looker Studio
 
 ## 🌄 Beyond Data Science
 
--  I love to exercise martial arts
--  Participate in Web3 projects
--  Read philosophy
--  Develop virtual reality applications
+-  I love to play padel
+-  Develop virtual reality apps
+-  Participate in Web3 comunity projects
+
 
 ## 🏴 How to reach me
 
