@@ -15,7 +15,7 @@ Check out to my [Data Portfolio](https://github.com/MantasTech/Data-Portfolio/bl
 
 ## 🌄 Beyond Data Science
 
--  I love to play padel
+-  I love to play padel and stay active
 -  Develop virtual reality apps
 -  Participate in Web3 comunity projects
 
